@@ -14,6 +14,8 @@ import java.time.Duration;
 import java.util.List;
 
 public class StandaloneTest {
+
+    //new comments are added
     public static void main(String[] args) {
         String productName ="ZARA COAT 3";
 
